@@ -1,4 +1,5 @@
 # C Programming
 
-### Practice Coding - C / C++
+### Practice Coding
+### C / C++
 ### Assignment
