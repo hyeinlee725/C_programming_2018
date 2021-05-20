@@ -1,5 +1,5 @@
 # C Programming
 
 ### Practice Coding
-### Languages : C & C++
+### Languages : C / C++
 ### Assignment
