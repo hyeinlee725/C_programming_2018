@@ -2,5 +2,4 @@
 
 ### Languages : C & C++
 ### Development Tool : Visual Studio
-### Practice Coding
-### Assignment
+### Practice Coding & Assignment
