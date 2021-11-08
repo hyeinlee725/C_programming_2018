@@ -1,5 +1,5 @@
 # C Programming_2018
 
-### Languages : C & C++
+### Programming Languages : C & C++
 ### Development Tool : Visual Studio
 ### Practice Coding & Assignment
